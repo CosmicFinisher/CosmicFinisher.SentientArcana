@@ -1,3 +1,3 @@
-# OpenEmergent.SentientArcana
+# CosmicContain.SentientArcana
 
-OPEN EMERGENT SENTIENT ARCANA
+Cosmic Containment/SENTIENT ARCANA
